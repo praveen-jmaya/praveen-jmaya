@@ -26,4 +26,4 @@ Building systems at the intersection of **information retrieval**, **machine lea
 
 ---
 
-📫 praveenjayaram.work@gmail.com · [LinkedIn](https://linkedin.com/in/praveen-jayaram)
+📫 praveenjayarammaya@gmail.com · [LinkedIn](https://linkedin.com/in/praveen-jayaram)
