@@ -1,16 +1,29 @@
-## Hi there 👋
+# Praveen Jayaram Maya
 
-<!--
-**praveen-jmaya/praveen-jmaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer · AI & Data  
+MSc AI and Data Processing @ Masaryk University, Brno
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building systems at the intersection of **information retrieval**, **machine learning**, and **backend engineering**. Currently focused on vector search, data pipelines, and ML-powered applications.
+
+---
+
+### Projects
+
+| | Repo | Stack |
+|-|------|-------|
+| 🔍 | [qdrant-hybrid-search](https://github.com/praveen-jmaya/qdrant-hybrid-search) | Qdrant · ColBERT · BM25 · fastembed |
+| 🤖 | [har-sensor-recognition](https://github.com/praveen-jmaya/har-sensor-recognition) | Scikit-Learn · SVM · T-SNE · SciPy |
+
+---
+
+### Skills
+
+`Python` `C++` `.NET` `SQL` `JavaScript`  
+`Scikit-Learn` `Qdrant` `ColBERT` `OpenCV`  
+`REST APIs` `Flask` `Azure` `Redis` `Cassandra`
+
+---
+
+📫 praveenjayaram.work@gmail.com · [LinkedIn](https://linkedin.com/in/praveen-jayaram)
